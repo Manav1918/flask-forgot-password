@@ -40,7 +40,7 @@ project/
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/flask-forgot-password.git](https://github.com/Manav1918/flask-forgot-password.git)
+   git clone https://github.com/Manav1918/flask-forgot-password.git
    cd flask-forgot-password
    ```
 
