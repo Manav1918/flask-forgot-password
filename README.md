@@ -105,7 +105,7 @@ Then open your browser at: [http://localhost:5000](http://localhost:5000)
 ## 📹 Tutorial
 
 This app is explained step-by-step in the video tutorial:  
-👉 [Watch on YouTube](https://your-youtube-link.com)
+👉 [Watch on YouTube](https://youtu.be/1oqeDQ6O0e4](https://youtu.be/1oqeDQ6O0e4))
 
 ---
 
