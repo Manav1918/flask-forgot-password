@@ -25,10 +25,8 @@ def mailSetup():
     app.config['MAIL_SERVER'] = 'smtp.gmail.com'
     app.config['MAIL_PORT'] = 587
     app.config['MAIL_USE_TLS'] = True
-    #app.config['MAIL_USERNAME'] = 'YOUR_EMAIL_ID_HERE'  # Replace with your email
-    #app.config['MAIL_PASSWORD'] = 'YOUR_EMAIL_PASSWORD_HERE'  # Replace with your email password
-    app.config['MAIL_USERNAME'] = 'manav19182@gmail.com'
-    app.config['MAIL_PASSWORD'] = 'wxlwclgcciaetzdl'
+    app.config['MAIL_USERNAME'] = 'YOUR_EMAIL_ID_HERE'  # Replace with your email
+    app.config['MAIL_PASSWORD'] = 'YOUR_EMAIL_PASSWORD_HERE'  # Replace with your email password
     mail = Mail(app)
     return mail
 mail =  mailSetup()
